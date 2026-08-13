@@ -30,8 +30,8 @@ Building production-ready MERN applications, AI-powered features, and mobile pro
 | Project | What I built | Stack |
 | --- | --- | --- |
 | [Lume](https://github.com/technopradyumn/lume) | Full-stack web application with secure uploads, authentication, and cloud-backed data workflows. | MongoDB, Express.js, React, Node.js, Vite, Supabase, Multer, JWT |
-| [ResumeIQ](https://github.com/technopradyumn/ResumeIQ) | AI resume-intelligence backend, evaluated on 100+ beta resumes, with structured LLM prompting and three-stage JSON validation. | FastAPI, MongoDB, Docker, NVIDIA NIM |
-| [CopyClip](https://github.com/technopradyumn/CopyClip) | Offline-first productivity app with six features, published to Google Play and reaching 250+ downloads. | Flutter, Dart, Hive, Clean Architecture |
+| [ResumeIQ]([https://github.com/technopradyumn/ResumeIQ](https://resumeiq-m98f.onrender.com/)) | AI resume-intelligence backend, evaluated on 100+ beta resumes, with structured LLM prompting and three-stage JSON validation. | FastAPI, MongoDB, Docker, NVIDIA NIM |
+| [CopyClip]([https://github.com/technopradyumn/CopyClip](https://play.google.com/store/apps/details?id=com.technopradyumn.copyclip)) | Offline-first productivity app with six features, published to Google Play and reaching 250+ downloads. | Flutter, Dart, Hive, Clean Architecture |
 
 <div align="center">
   <img src="./stats.svg?v=1" alt="Profile engineering highlights" width="48%" />
