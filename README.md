@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### AI Full-Stack Engineer | Backend Development | Generative & Agentic AI
+### MERN & AI Full-Stack Engineer | Flutter | Backend Development
 
-Building production-ready apps, practical AI workflows, and reliable backend systems from Delhi NCR.
+Building production-ready MERN applications, AI-powered features, and mobile products from Delhi NCR.
 
 [![Email](https://img.shields.io/badge/Email-technopradyumn%40gmail.com-EA4AAA?style=flat-square&logo=gmail&logoColor=white)](mailto:technopradyumn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-technopradyumn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/technopradyumn)
@@ -20,8 +20,8 @@ Building production-ready apps, practical AI workflows, and reliable backend sys
 
 ## About me
 
-- 1.2 years of software development experience across backend APIs, databases, Flutter, and AI-powered products.
-- Experienced with RAG, LangChain, LangGraph, vector databases, embeddings, and production LLM integrations.
+- 1.2 years of software development experience across MERN applications, backend APIs, Flutter, databases, and AI-powered products.
+- Build AI features into full-stack products using LLM APIs, RAG, embeddings, LangChain, and LangGraph.
 - Previously a Mobile App Developer at AiToXr, contributing to two production applications used by 200+ users.
 - Improved payment transaction success by 12% through validation, retries, and standardized error handling.
 
@@ -29,7 +29,7 @@ Building production-ready apps, practical AI workflows, and reliable backend sys
 
 | Project | What I built | Stack |
 | --- | --- | --- |
-| [Lume](https://github.com/technopradyumn/lume) | An AI-focused product showcasing applied backend and LLM engineering. | FastAPI, Qdrant, MongoDB, Gemini API, SentenceTransformers |
+| [Lume](https://github.com/technopradyumn/lume) | Full-stack web application with secure uploads, authentication, and cloud-backed data workflows. | MongoDB, Express.js, React, Node.js, Vite, Supabase, Multer, JWT |
 | [ResumeIQ](https://github.com/technopradyumn/ResumeIQ) | AI resume-intelligence backend, evaluated on 100+ beta resumes, with structured LLM prompting and three-stage JSON validation. | FastAPI, MongoDB, Docker, NVIDIA NIM |
 | [CopyClip](https://github.com/technopradyumn/CopyClip) | Offline-first productivity app with six features, published to Google Play and reaching 250+ downloads. | Flutter, Dart, Hive, Clean Architecture |
 
@@ -40,7 +40,7 @@ Building production-ready apps, practical AI workflows, and reliable backend sys
 
 ## Tech stack
 
-`JavaScript` `Python` `SQL` `Dart` `React` `Node.js` `Express` `FastAPI` `PostgreSQL` `MongoDB` `Supabase` `Firebase` `Redis` `Qdrant` `Docker` `LangChain` `LangGraph` `OpenAI API` `Gemini API`
+`MongoDB` `Express.js` `React` `Node.js` `Vite` `JavaScript` `JWT` `Multer` `Supabase` `OpenAI API` `Gemini API` `RAG` `LangChain` `LangGraph` `Flutter` `Dart` `Python` `FastAPI` `PostgreSQL` `Docker`
 
 <div align="center">
   <img src="./trophies.svg?v=1" alt="Career highlights" width="100%" />
