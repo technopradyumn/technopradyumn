@@ -41,8 +41,8 @@
 | Product | Outcome | Engineering focus |
 | :--- | :--- | :--- |
 | [**Lume**](https://github.com/technopradyumn/lume) | Full-stack product with secure upload and account workflows. | **MERN** | Vite | Supabase | Multer | JWT |
-| [**ResumeIQ**](https://github.com/technopradyumn/ResumeIQ) | AI resume intelligence backend evaluated on 100+ beta resumes. | FastAPI | MongoDB | Docker | NVIDIA NIM |
-| [**CopyClip**](https://github.com/technopradyumn/CopyClip) | Offline-first productivity app published to Google Play with 250+ downloads. | Flutter | Dart | Hive | Clean Architecture |
+| [**ResumeIQ**](https://resumeiq-m98f.onrender.com/) | AI resume intelligence backend evaluated on 100+ beta resumes. | FastAPI | MongoDB | Docker | NVIDIA NIM |
+| [**CopyClip**](https://play.google.com/store/apps/details?id=com.technopradyumn.copyclip) | Offline-first productivity app published to Google Play with 250+ downloads. | Flutter | Dart | Hive | Clean Architecture |
 
 ## Credentials and AI learning
 
