@@ -42,6 +42,24 @@ Building production-ready MERN applications, AI-powered features, and mobile pro
 
 `MongoDB` `Express.js` `React` `Node.js` `Vite` `JavaScript` `JWT` `Multer` `Supabase` `OpenAI API` `Gemini API` `RAG` `LangChain` `LangGraph` `Flutter` `Dart` `Python` `FastAPI` `PostgreSQL` `Docker`
 
+## Certifications & Kaggle credentials
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-pradyumnprajapati-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/pradyumnprajapati)
+[![Python Certificate](https://img.shields.io/badge/Kaggle-Python_Course_Certificate-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/pradyumnprajapati/python)
+[![Google AI Agents](https://img.shields.io/badge/Google-5--Day_AI_Agents_Intensive-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.kaggle.com/pradyumnprajapati)
+
+</div>
+
+**Kaggle badges:** 1 Year on Kaggle · Python Coder · Kaggle Community Member · Vampire · Learner · 5-Day AI Agents: Intensive Vibe Coding Course · 7 Day Login Streak
+
+- [Kaggle Python Course Certificate](https://www.kaggle.com/learn/certification/pradyumnprajapati/python)
+- Google 5-Day AI Agents: Intensive Vibe Coding Course
+- Full-Stack Generative & Agentic AI with Python — LangChain, FastAPI, LangGraph, RAG pipelines, and production LLM workflows
+- Anthropic AI Certification
+- Google Play Academy Store Listing Certificate
+
 <div align="center">
   <img src="./trophies.svg?v=1" alt="Career highlights" width="100%" />
 </div>
